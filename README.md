@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm Edward! 👋 <br>
+    Hi there, I'm Edward! 👋 <br>
     💻 Senior IT Lead - Upcoming Software Engineer <br>
     👨🏻‍💻 Favorite Tech: JavaScript, Python ... <br>
     📓 I’m currently learning Java... <br>
