@@ -2,8 +2,8 @@
   <samp>
     Hi there, I'm Edward! 👋 <br>
     💻 Senior IT Lead - Upcoming Software Engineer <br>
-    👨🏻‍💻 Favorite Tech: Python, Angular JS, SQL ... <br>
-    📓 I’m currently learning Java... <br>
+    👨🏻‍💻 Favorite Tech: Python, SQL, HTML/CSS ... <br>
+    📓 I’m currently learning React JS and Java... <br>
     Contact me: <a href="edlavairee@gmail.com/">edlavairee@gmail.com</a> <br>
     🎨 Portfolio: PENDING  <br>
     💼 LinkedIn: <a href="https://www.linkedin.com/in/edwardlavaire/">https://www.linkedin.com/in/edwardlavaire/</a> <br>
