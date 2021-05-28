@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     Hi there, I'm Edward! 👋 <br>
-    💻 Senior IT Lead - Upcoming Software Engineer <br>
+    💻 Senior IT Lead | Software Engineer <br>
     👨🏻‍💻 Favorite Tech: Python, SQL, HTML/CSS ... <br>
     📓 I’m currently learning React JS and Java... <br>
     Contact me: <a href="edlavairee@gmail.com/">edlavairee@gmail.com</a> <br>
